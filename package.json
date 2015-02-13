@@ -1,0 +1,27 @@
+{
+  "name": "jsonbeautify",
+  "version": "0.0.1",
+  "description": "Beautifully print JSON content",
+  "main": "index.js",
+  "bin": {
+    "jsonbeautify": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hadesdu/jsonbeautify.git"
+  },
+  "keywords": [
+    "json",
+    "pretty",
+    "beautify"
+  ],
+  "author": "hades",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/hadesdu/jsonbeautify/issues"
+  },
+  "homepage": "https://github.com/hadesdu/jsonbeautify"
+}
